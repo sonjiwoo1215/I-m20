@@ -1,0 +1,406 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\assets\\game_ft\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|solutionrelative:assets\\game_ft\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|c:\\users\\ds\\desktop\\\uC0AD\uC81Cxxxxxx_speakiz\\speakiz\\assets\\game_bt\\scripts\\mic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|solutionrelative:assets\\game_bt\\scripts\\mic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\assets\\game_bt\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|solutionrelative:assets\\game_bt\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\assets\\scripts\\fluencyuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fluencyuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\assets\\game_ft\\scripts\\speechsynthesismanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|solutionrelative:assets\\game_ft\\scripts\\speechsynthesismanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\assets\\game_pt\\scripts\\speechtotext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|solutionrelative:assets\\game_pt\\scripts\\speechtotext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\assets\\game_ft\\scripts\\canvas3\\dialoguemanager3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|solutionrelative:assets\\game_ft\\scripts\\canvas3\\dialoguemanager3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\assets\\game_ft\\scripts\\fluencydatasaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|solutionrelative:assets\\game_ft\\scripts\\fluencydatasaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\assets\\game_ft\\scripts\\canvas3\\startspeechrecognition3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|solutionrelative:assets\\game_ft\\scripts\\canvas3\\startspeechrecognition3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\assets\\game_ft\\scripts\\canvas4\\dialoguemanager4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|solutionrelative:assets\\game_ft\\scripts\\canvas4\\dialoguemanager4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\assets\\scripts\\trainingdatafetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trainingdatafetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\assets\\game_ft\\scripts\\canvas5\\dialoguemanager5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|solutionrelative:assets\\game_ft\\scripts\\canvas5\\dialoguemanager5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\assets\\scripts\\fluencyarrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fluencyarrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\assets\\game_ft\\scripts\\canvas2\\dialoguemanager2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|solutionrelative:assets\\game_ft\\scripts\\canvas2\\dialoguemanager2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\assets\\game_ft\\scripts\\canvas1\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|solutionrelative:assets\\game_ft\\scripts\\canvas1\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\assets\\game_ft\\scripts\\canvas2\\speechrecognitionmanager2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|solutionrelative:assets\\game_ft\\scripts\\canvas2\\speechrecognitionmanager2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\assets\\scripts\\playerprefsviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerprefsviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\assets\\game_ft\\scripts\\canvas4\\startspeechrecognition4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|solutionrelative:assets\\game_ft\\scripts\\canvas4\\startspeechrecognition4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\assets\\game_ft\\scripts\\canvas4\\speechrecognitionmanager4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|solutionrelative:assets\\game_ft\\scripts\\canvas4\\speechrecognitionmanager4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\assets\\game_ft\\scripts\\canvas3\\speechrecognitionmanager3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|solutionrelative:assets\\game_ft\\scripts\\canvas3\\speechrecognitionmanager3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\assets\\game_ft\\scripts\\dialogue\\basedialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|solutionrelative:assets\\game_ft\\scripts\\dialogue\\basedialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\assets\\game_ft\\scripts\\canvas1\\speechrecognitionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|solutionrelative:assets\\game_ft\\scripts\\canvas1\\speechrecognitionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\assets\\game_ft\\scripts\\canvas2\\startspeechrecognition2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|solutionrelative:assets\\game_ft\\scripts\\canvas2\\startspeechrecognition2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\assets\\game_ft\\scripts\\canvas1\\startspeechrecognition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9929A-2087-F9FA-9313-72B0BCB6EFE9}|Assembly-CSharp.csproj|solutionrelative:assets\\game_ft\\scripts\\canvas1\\startspeechrecognition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpeechSynthesisManager.cs",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\SpeechSynthesisManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_FT\\Scripts\\SpeechSynthesisManager.cs",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\SpeechSynthesisManager.cs",
+              "RelativeToolTip": "Assets\\Game_FT\\Scripts\\SpeechSynthesisManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T23:11:29.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FluencyUIController.cs",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Scripts\\FluencyUIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FluencyUIController.cs",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Scripts\\FluencyUIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FluencyUIController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAABIwCcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:42:35.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TrainingDataFetcher.cs",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Scripts\\TrainingDataFetcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TrainingDataFetcher.cs",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Scripts\\TrainingDataFetcher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TrainingDataFetcher.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAANMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:48:55.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DialogueManager4.cs",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Canvas4\\DialogueManager4.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_FT\\Scripts\\Canvas4\\DialogueManager4.cs",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Canvas4\\DialogueManager4.cs",
+              "RelativeToolTip": "Assets\\Game_FT\\Scripts\\Canvas4\\DialogueManager4.cs",
+              "ViewState": "AgIAADIBAAAAAAAAAAAswBoBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:02:22.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DialogueManager3.cs",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Canvas3\\DialogueManager3.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_FT\\Scripts\\Canvas3\\DialogueManager3.cs",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Canvas3\\DialogueManager3.cs",
+              "RelativeToolTip": "Assets\\Game_FT\\Scripts\\Canvas3\\DialogueManager3.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAswAcBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:02:17.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_FT\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Game_FT\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:52:59.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpeechToText.cs",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_PT\\Scripts\\SpeechToText.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_PT\\Scripts\\SpeechToText.cs",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_PT\\Scripts\\SpeechToText.cs",
+              "RelativeToolTip": "Assets\\Game_PT\\Scripts\\SpeechToText.cs",
+              "ViewState": "AgIAAOoBAAAAAAAAAAAAAPwBAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:36:38.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mic.cs",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_BT\\Scripts\\Mic.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_BT\\Scripts\\Mic.cs",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_BT\\Scripts\\Mic.cs",
+              "RelativeToolTip": "Assets\\Game_BT\\Scripts\\Mic.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAADwvx8BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:32:06.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_BT\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_BT\\Scripts\\GameController.cs",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_BT\\Scripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\Game_BT\\Scripts\\GameController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwF4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:45:22.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DialogueManager5.cs",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Canvas5\\DialogueManager5.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_FT\\Scripts\\Canvas5\\DialogueManager5.cs",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Canvas5\\DialogueManager5.cs",
+              "RelativeToolTip": "Assets\\Game_FT\\Scripts\\Canvas5\\DialogueManager5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:15:34.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StartSpeechRecognition3.cs",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Canvas3\\StartSpeechRecognition3.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_FT\\Scripts\\Canvas3\\StartSpeechRecognition3.cs",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Canvas3\\StartSpeechRecognition3.cs",
+              "RelativeToolTip": "Assets\\Game_FT\\Scripts\\Canvas3\\StartSpeechRecognition3.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAqwAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:59:44.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FluencyDataSaver.cs",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\FluencyDataSaver.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_FT\\Scripts\\FluencyDataSaver.cs",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\FluencyDataSaver.cs",
+              "RelativeToolTip": "Assets\\Game_FT\\Scripts\\FluencyDataSaver.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAcwHIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T21:02:01.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FluencyArrow.cs",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Scripts\\FluencyArrow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FluencyArrow.cs",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Scripts\\FluencyArrow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FluencyArrow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:00:33.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DialogueManager2.cs",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Canvas2\\DialogueManager2.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_FT\\Scripts\\Canvas2\\DialogueManager2.cs",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Canvas2\\DialogueManager2.cs",
+              "RelativeToolTip": "Assets\\Game_FT\\Scripts\\Canvas2\\DialogueManager2.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAAAP4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:48:53.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DialogueManager.cs",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Canvas1\\DialogueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_FT\\Scripts\\Canvas1\\DialogueManager.cs",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Canvas1\\DialogueManager.cs",
+              "RelativeToolTip": "Assets\\Game_FT\\Scripts\\Canvas1\\DialogueManager.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAAABEBAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:42:22.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlayerPrefsViewer.cs",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Scripts\\PlayerPrefsViewer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerPrefsViewer.cs",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Scripts\\PlayerPrefsViewer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerPrefsViewer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:42:47.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StartSpeechRecognition4.cs",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Canvas4\\StartSpeechRecognition4.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_FT\\Scripts\\Canvas4\\StartSpeechRecognition4.cs",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Canvas4\\StartSpeechRecognition4.cs",
+              "RelativeToolTip": "Assets\\Game_FT\\Scripts\\Canvas4\\StartSpeechRecognition4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:04:59.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SpeechRecognitionManager4.cs",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Canvas4\\SpeechRecognitionManager4.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_FT\\Scripts\\Canvas4\\SpeechRecognitionManager4.cs",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Canvas4\\SpeechRecognitionManager4.cs",
+              "RelativeToolTip": "Assets\\Game_FT\\Scripts\\Canvas4\\SpeechRecognitionManager4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:04:49.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SpeechRecognitionManager3.cs",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Canvas3\\SpeechRecognitionManager3.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_FT\\Scripts\\Canvas3\\SpeechRecognitionManager3.cs",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Canvas3\\SpeechRecognitionManager3.cs",
+              "RelativeToolTip": "Assets\\Game_FT\\Scripts\\Canvas3\\SpeechRecognitionManager3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:59:21.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseDialogueManager.cs",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Dialogue\\BaseDialogueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_FT\\Scripts\\Dialogue\\BaseDialogueManager.cs",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Dialogue\\BaseDialogueManager.cs",
+              "RelativeToolTip": "Assets\\Game_FT\\Scripts\\Dialogue\\BaseDialogueManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:27:16.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SpeechRecognitionManager.cs",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Canvas1\\SpeechRecognitionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_FT\\Scripts\\Canvas1\\SpeechRecognitionManager.cs",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Canvas1\\SpeechRecognitionManager.cs",
+              "RelativeToolTip": "Assets\\Game_FT\\Scripts\\Canvas1\\SpeechRecognitionManager.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAEwH0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:42:32.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StartSpeechRecognition2.cs",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Canvas2\\StartSpeechRecognition2.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_FT\\Scripts\\Canvas2\\StartSpeechRecognition2.cs",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Canvas2\\StartSpeechRecognition2.cs",
+              "RelativeToolTip": "Assets\\Game_FT\\Scripts\\Canvas2\\StartSpeechRecognition2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:13:44.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SpeechRecognitionManager2.cs",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Canvas2\\SpeechRecognitionManager2.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_FT\\Scripts\\Canvas2\\SpeechRecognitionManager2.cs",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Canvas2\\SpeechRecognitionManager2.cs",
+              "RelativeToolTip": "Assets\\Game_FT\\Scripts\\Canvas2\\SpeechRecognitionManager2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:09:30.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StartSpeechRecognition.cs",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Canvas1\\StartSpeechRecognition.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_FT\\Scripts\\Canvas1\\StartSpeechRecognition.cs",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\\uC0AD\uC81CXXXXXX_Speakiz\\Speakiz\\Assets\\Game_FT\\Scripts\\Canvas1\\StartSpeechRecognition.cs",
+              "RelativeToolTip": "Assets\\Game_FT\\Scripts\\Canvas1\\StartSpeechRecognition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:42:36.722Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
