@@ -1,6 +1,6 @@
 🐣🐣🐣🐣🐣🐣🐣🐣🐣🐣
 <h1>Speakiz</h1>
-Ai기반 맞춤형 언어 훈련 애플리케이션 <br>
+AI 기반 맞춤형 언어 훈련 애플리케이션 <br>
 <br>
 🔧<strong>Tools</strong>🔧 <br><br>
 <a href="https://unity.com/"><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
