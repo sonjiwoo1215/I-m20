@@ -1,8 +1,9 @@
 🐣🐣🐣🐣🐣🐣🐣🐣🐣🐣
-<h1>Speakiz</h1>
-AI 기반 맞춤형 언어 훈련 애플리케이션 <br>
-<br>
-🔧<strong>Tools</strong>🔧 <br><br>
+# Speakiz
+덕성여자대학교 IT미디어공학과 <br>
+홍지은, 손지우 이예진 <br>
+
+## 🔧<strong>Tools</strong>🔧 <br>
 <a href="https://unity.com/"><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
 <a href="https://unity.com/"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 <a href="https://unity.com/"><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
