@@ -31,9 +31,6 @@
 
 *  멀티미디어 사용이 언어 발달 치료에 미치는 영향
 
-**기대효과** <br>
-> (?) <br>
-
 ## 애플리케이션 화면
 ![시작](https://github.com/user-attachments/assets/f77159ff-fce1-4f8d-adfa-8e95b65f36d7)
 시작화면 애니메이션
