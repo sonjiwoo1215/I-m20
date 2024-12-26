@@ -5,12 +5,10 @@
 
 ## 프로젝트 소개
 **설명** <br>
-> 'Speakiz' = Speak + Kiz! <br>
-<br>
-<br>
+> 'Speakiz' = Speak + Kiz! <br><br>
+
 > 'Speakiz'는 언어 발달 장애 아동을 위한 AI 기반 언어 훈련 애플리케이션입니다.<br>
 > AI 등 미디어를 활용한 언어 치료가 효과적이라는 논문에 따라 게임 형식으로 제작했습니다.
-<br>
 <br>
 
 ▪️호흡훈련<br>
