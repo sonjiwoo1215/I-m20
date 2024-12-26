@@ -35,7 +35,6 @@ AI 등 미디어를 활용한 언어 치료가 효과적이라는 논문에 따�
 > (?) <br>
 
 ## 애플리케이션 화면
-## 애플리케이션 화면
 ![시작](https://github.com/user-attachments/assets/f77159ff-fce1-4f8d-adfa-8e95b65f36d7)
 시작화면 애니메이션
 ![로그인](https://github.com/user-attachments/assets/906ca9ee-afb6-4d52-ab7c-d1fe7f077b82)
