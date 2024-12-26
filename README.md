@@ -1,7 +1,7 @@
 🐣🐣🐣🐣🐣🐣🐣🐣🐣🐣
 # Speakiz
 덕성여자대학교 IT미디어공학과 <br>
-홍지은, 손지우 이예진 <br>
+홍지은, 손지우, 이예진 <br>
 
 ## 🔧Tools🔧 <br>
 <a href="https://unity.com/"><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
