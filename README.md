@@ -9,12 +9,11 @@
 <a href="https://azure.microsoft.com/ko-kr/pricing/purchase-options/azure-account/search?icid=free-search&ef_id=_k_CjwKCAiAmrS7BhBJEiwAei59i98KdspsvFJE3G7izLYlPO9QhbzYb_CcNeYu-mcasq2AdgBlGLGc3hoCfs0QAvD_BwE_k_&OCID=AIDcmmmbxccejx_SEM__k_CjwKCAiAmrS7BhBJEiwAei59i98KdspsvFJE3G7izLYlPO9QhbzYb_CcNeYu-mcasq2AdgBlGLGc3hoCfs0QAvD_BwE_k_&gad_source=1&gclid=CjwKCAiAmrS7BhBJEiwAei59i98KdspsvFJE3G7izLYlPO9QhbzYb_CcNeYu-mcasq2AdgBlGLGc3hoCfs0QAvD_BwE"><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
 <a href="https://unity.com/"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
 <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-<a href="https://unity.com/"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-<a href="https://unity.com/"><img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"><br>
+<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+<a href="https://www.adobe.com/"><img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"><br>
 <a href="https://www.adobe.com/kr/products/illustrator.html"><img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 <a href="https://www.adobe.com/kr/products/photoshop.html"><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
 <a href="https://cloud.google.com/?_gl=1*tk870s*_up*MQ..&gclid=CKvjkseQxYoDFctJwgUdW2kebg&gclsrc=ds"><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
-
 
 ## 프로젝트 소개
 **설명** 
