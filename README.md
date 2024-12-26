@@ -3,6 +3,15 @@
 덕성여자대학교 IT미디어공학과 <br>
 홍지은, 손지우 이예진 <br>
 
+## 프로젝트 소개
+**설명** <br>
+> 어떤 앱인지 간단 설명  <br>
+
+**기획의도** <br>
+> +논문 내용.. <br>
+
+**기대효과** <br>
+> (?) <br>
 ## 🔧Tools🔧 <br>
 <a href="https://unity.com/"><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
 <a href="https://unity.com/"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
