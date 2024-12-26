@@ -6,7 +6,7 @@
 ## 프로젝트 소개
 **설명** 
 <br>
-> **'Speakiz' = Speak + Kiz!** 
+>**'Speakiz' = Speak + Kiz!** 
 <br>
 **'Speakiz'는 언어 발달 장애 아동을 위한 AI 기반 언어 훈련 애플리케이션입니다.** <br>
 <br>
